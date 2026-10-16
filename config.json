@@ -1,0 +1,13 @@
+// Tệp cấu hình tự động cập nhật cho App
+window.HB88_CONFIG = {
+  "WEBVIEW_URL": "https://m.newdomain.com/",
+  "SUPPORT_URL": "https://t.me/cskh",
+  "BANK_INFO": {
+    "bankId": "VCB",
+    "bankName": "Vietcombank",
+    "accountNumber": "9999999999",
+    "accountHolder": "NGUYEN VAN A",
+    "transferNote": "NAP TIEN",
+    "template": "compact2"
+  }
+};
